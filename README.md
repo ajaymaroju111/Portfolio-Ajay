@@ -1,1 +1,1 @@
-# Portfolio-Ajay
+This project involved creating a personal portfolio website to showcase my skills, projects, and achievements. Designed with a clean, user-friendly interface, it highlights my expertise in web development, data analysis, and software engineering. The portfolio effectively demonstrates my capabilities and serves as a dynamic tool for professional networking and job opportunities.
